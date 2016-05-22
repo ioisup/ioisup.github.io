@@ -2,11 +2,15 @@
 :published_at: 2016-05-22
 :hp-tags: about,technology,management,web
 :hp-alt-title: First
+
 == About
 เกี่ยวกับ
+
 == Tech
 เทคโนโลยี
+
 == Management
 การบริหารจัดการ
+
 == Others
 อื่นๆ
