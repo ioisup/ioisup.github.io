@@ -28,6 +28,7 @@ ____
 
 [References] 
 ====
+References
 
 * link:https://dx.doi.org/10.2307%2F249008[Davis, F. D. (1989), "Perceived usefulness, perceived ease of use, and user acceptance of information technology", MIS Quarterly 13 (3): 319–340, doi:10.2307/249008]
 
