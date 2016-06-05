@@ -7,19 +7,18 @@
 
 ศาสตราจารย์ Fred D Davis แห่งมหาวิทยาลัย Arkansas ได้เสนอ Model ที่ใช้อธิบายการยอมรับ technology ไว้ว่ามีองค์ประกอบสองอย่างคือ Perceived usefulness และ Perceived ease-of-use
 
-[horizontal]
 Perceived usefulness (PU):: นั้นถูกนิยามไว้เป็น "ระดับผลประโยชน์ที่ผู้ใช้เชื่อว่าจะได้รับ" หรืออธิบายง่ายๆว่า ความคาดหวังของประโยชน์ที่จะได้รับ
 Perceived ease-of-use (PEOU):: ถูกนิยามเป็น "ระดับความง่ายในการเริ่มใช้งานที่ผู้ใช้เชื่อว่าจะเจอ" หรือพูดอีกอย่างหนึงได้ว่า ความคาดหวังของความง่ายในการใช้งาน
 
 องค์ประกอบทั้งสองอย่างส่งผลไปในทางเดียวกันต่อ "ทัศนคติต่อการใช้งาน (Attitude toward using)" และ ทัศนคติในการใช้งานก็จะส่งผลไปในทางเดียวกันกับ "แนวโน้มพฤติกรรมที่จะใช้งาน (Behavioral intention to use)" ซึ่งสุดท้ายแล้วส่งผลให้เกิดการใช้งานจริง (Actual system use) ขึ้น
 
-image::https://upload.wikimedia.org/wikipedia/commons/6/67/Technology_Acceptance_Model.png[]
+image::https://upload.wikimedia.org/wikipedia/commons/6/67/Technology_Acceptance_Model.png[TAM]
 อ้างอิงรูปจาก link:https://en.wikipedia.org/wiki/File:Technology_Acceptance_Model.png[wikipedia]
 
 อธิบายให้เหลือหนึ่งบรรทัดได้ว่า 
 
 ____
-"*ความคาดหวังของประโยชน์ที่จะได้รับและความง่ายในการใช้ง่ายส่งผลต่อทัศนคติและแนวโน้มพฤติกรรมที่จะนำไปสู่การใช้งานจริง*"
+"*ความคาดหวังของประโยชน์ที่จะได้รับและความง่ายในการใช้งานส่งผลต่อทัศนคติและแนวโน้มพฤติกรรมที่จะนำไปสู่การใช้งานจริง*"
 ____
 
 แล้วหนึ่งบรรทัดนี้ให้อะไรกับคุณ?
