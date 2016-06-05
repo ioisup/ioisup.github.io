@@ -1,0 +1,6 @@
+= Technology Acceptance Model
+:hp-image: image::https://upload.wikimedia.org/wikipedia/commons/6/67/Technology_Acceptance_Model.png
+:published_at: 2016-06-05
+:hp-tags: technology, technology management, marketing, startup
+
+ในปัจจุบันที่โลกเราเปลี่ยนแปลงอย่างรวดเร็ว มีมือถือรุ่นใหม่ออกทุกเดือน เทคโนโลยีก็พัฒนาอย่างรวดเร็วเช่นกัน แต่ใช่ว่าทุกเทคโนโลยีจะได้รับการตอบรับที่ดีเสมอไป หลายๆเทคโนโลยีก็ถูกสร้างขึ้นมา แต่ไม่มีคนนำไปใช้ จนอาจถูกลืมไป แต่บางเทคโนโลยีก็ถูกนำไปใช้อย่างแพร่หลาย อะไรคือสิ่งที่ทำให้เกิดความต่างนั้น
