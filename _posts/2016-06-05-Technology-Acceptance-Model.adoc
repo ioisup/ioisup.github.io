@@ -1,4 +1,5 @@
 = Technology Acceptance Model
+ioisup <ioisup@gmail.com>
 :hp-image: image::https://upload.wikimedia.org/wikipedia/commons/6/67/Technology_Acceptance_Model.png
 :published_at: 2016-06-05
 :hp-tags: technology, management, technology management, marketing, startup
