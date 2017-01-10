@@ -1,4 +1,4 @@
-= rub docker-compose in cron job 
+= run docker-compose in cron job 
 ioisup <ioisup@gmail.com>
 :published_at: 2017-01-10
 :hp-tags: docker-compose, cron
