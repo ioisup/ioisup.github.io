@@ -1,0 +1,6 @@
+= rub docker-compose in cron job 
+ioisup <ioisup@gmail.com>
+:published_at: 2017-01-10
+:hp-tags: docker-compose, cron
+
+To call docker-compose in crontab, the absolute path of docker-compose command have to be added to cron command
