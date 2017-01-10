@@ -1,0 +1,6 @@
+= เขียนโปรแกรม iOS แบบคุ้มสุด ฿18,900.00
+ioisup <ioisup@gmail.com>
+:published_at: 2017-01-10
+:hp-tags: programing, iOS, mac mini, mac
+
+ปัญหาของการเขียนโปรแกรมบน iOS คือ ต้องใช้ Mac ในการ compile เท่านั้น ดังนั้นจึงจำเป็นต้องมีเครื่อง Mac ไว้ทำงาน ซึ่ง Mac นั้นแพงเอาเรื่องอยู่ ถูกสุดก็ link:view-source:http://www.apple.com/th-en/shop/buy-mac/mac-mini?afid=p238%7CsqVZr6iOh-dc_mtid_18707vxu38484_pcrid_163090642231_&cid=aos-th-kwgo-mac--slid-[Mac mini ราคา ฿18,900.00] ซึ่งสามารถต่อหน้าจอได้สูงสุดที่ความละเอียด 2560 x 1600 พิกเซลจำนวน 2 จอ Core i5 RAM 4GB ก็สามารถเขียนโปรแกรมได้สบายละ 
