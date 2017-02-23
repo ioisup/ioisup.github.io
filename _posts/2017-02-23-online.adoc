@@ -1,0 +1,29 @@
+= เปรียบเทียบบริการรับฝากข้อมูล online
+ioisup <ioisup@gmail.com>
+:published_at: 2017-02-23
+:hp-tags: online storage
+
+ใช้ฟรีไม่ต้องเสียเงิน
+[width="50%",cols=">s,^e,e",frame="topbot",options="header,footer"]
+|=======
+|provider | storage | note
+| link:view-source:https://www.google.com/drive/pricing/[Google Drive] | 15 GB | share with gmail and photos
+| link:view-source:https://onedrive.live.com/?WT.mc_id=PROD_OneDrive-Web_LeftNav_UpgradeLink_Upgrade&v=upgrade[OneDrive] | 15 GB |
+| link:view-source:https://www.dropbox.com/plans?trigger=homepagefoot[Dropbox] | 2 GB | เพิ่มได้ถึง 16 GB ด้วยการ refer
+|=======
+
+แต่ถ้าไม่พอ ก็จ่ายเงินเพิ่มได้ตามตารางนี้ (เรียงตามคำแนะนำ)
+[width="50%",cols=">s,<e,^e,e",frame="topbot",options="header,footer"]
+|=======
+|provider | price(per year) | storage | note
+| link:view-source:https://www.amazon.com/clouddrive/home?ref_=cd_auth_home[Amazon drive] | $59.99 | Unlimited |
+| link:view-source:https://onedrive.live.com/?WT.mc_id=PROD_OneDrive-Web_LeftNav_UpgradeLink_Upgrade&v=upgrade[OneDrive] | $23.88 | 50 GB |
+| link:view-source:https://onedrive.live.com/?WT.mc_id=PROD_OneDrive-Web_LeftNav_UpgradeLink_Upgrade&v=upgrade[OneDrive] | $69.99 | 1 TB | + Office 2016 Apps
+| link:view-source:https://onedrive.live.com/?WT.mc_id=PROD_OneDrive-Web_LeftNav_UpgradeLink_Upgrade&v=upgrade[OneDrive] | $99.99 | 5 TB | + Office 2016 Apps
+| link:view-source:https://www.dropbox.com/plans?trigger=homepagefoot[Dropbox] | $99.00 | 1 TB |
+| link:view-source:https://www.google.com/drive/pricing/[Google Drive] | $19.99 | 100 GB | share with gmail and photos
+| link:view-source:https://www.google.com/drive/pricing/[Google Drive] | $99.99 | 1 TB | share with gmail and photos
+| link:view-source:https://www.google.com/drive/pricing/[Google Drive] | $1199.88 | 10 TB | share with gmail and photos
+|=======
+
+จะเห็นได้ว่า ที่ปริมาณข้อมูล 1 TB (link:view-source:http://www.pcninja.us/how-much-can-a-1-tb-hard-drive-hold/[เก็บหนังได้ประมาณ 500 ชม]) ทั้ง dropbox และ google drive มีค่าใช้จ่ายเท่ากันที่ $99.99 (link:view-source:https://www.google.co.th/search?q=99.99+usd+to+thb[฿3498.65]) ต่อปี แต่ onedrive คิดค่าบริการถูกกว่า ที่ $69.99 (link:view-source:https://www.google.co.th/search?q69.99+usd+to+thb[฿2448.95]) ต่อปี แต่ถ้าใช้บริการรับฝากข้อมูลอย่างเดียว ไม่ได้ใช้บริการเมลล์ด้วย Amazon drive คิดค่าบริการถูกสุดอยู่ที่ $59.99 (link:view-source:https://www.google.co.th/search?q59.99+usd+to+thb[฿2098.45]) ต่อปี โดยฝากข้อมูลไม่จำกัดด้วย
