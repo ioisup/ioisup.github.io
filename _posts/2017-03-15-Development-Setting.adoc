@@ -1,0 +1,11 @@
+= Development Setting
+ioisup <ioisup@gmail.com>
+:published_at: 2017-03-15
+:hp-tags: Typescript, TDD, Docker, Gulp
+
+
+Typescript https://www.typescriptlang.org/
+Automate -> Gulp https://www.typescriptlang.org/docs/handbook/gulp.html
+TDD -> https://templecoding.com/blog/2016/02/02/how-to-setup-testing-using-typescript-mocha-chai-sinon-karma-and-webpack/
+Docker
+
