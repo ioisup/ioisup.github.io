@@ -7,5 +7,6 @@ ioisup <ioisup@gmail.com>
 Typescript https://www.typescriptlang.org/
 Automate -> Gulp https://www.typescriptlang.org/docs/handbook/gulp.html
 TDD -> https://templecoding.com/blog/2016/02/02/how-to-setup-testing-using-typescript-mocha-chai-sinon-karma-and-webpack/
+BDD -> 
 Docker
 
