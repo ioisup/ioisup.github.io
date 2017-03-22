@@ -5,3 +5,15 @@ ioisup <ioisup@gmail.com>
 
 ปัญหาของ Promise
 ตัว Promise จะต้องรู้สภาพการทำงานของตัวเอง ซึ่งในกรณีที่เรียก request จาก client แล้วรอ response จาก server ทำให้ไม่สามารถที่จะรู้ผลได้ว่าจะเสร็จเมื่อไร ถ้า promise ตั้งแต่แรกอยู่แล้ว อาจจะไม่มีปัญหา แต่ถ้าเป็น event ที่ต้องรอ update ก็จะมีปัญหา ซึ่งปกติก็น่าจะต้องใช้ Observer pattern
+
+https://en.wikipedia.org/wiki/Observer_pattern
+
+
+new Promise(resolve,reject){
+  ... wait until event emitted ...
+  if(condition){
+    resolve(data)
+  }else{
+    reject(err)
+  }
+}
