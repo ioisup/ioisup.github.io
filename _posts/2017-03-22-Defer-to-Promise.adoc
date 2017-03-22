@@ -4,13 +4,12 @@ ioisup <ioisup@gmail.com>
 :hp-tags: Typescript, Promise, Defer
 
 ปัญหาของ Promise
-ตัว Promise จะต้องรู้สภาพการทำงานของตัวเอง ซึ่งในกรณีที่เรียก request จาก client แล้วรอ response จาก server ทำให้ไม่สามารถที่จะรู้ผลได้ว่าจะเสร็จเมื่อไร ถ้า promise ตั้งแต่แรกอยู่แล้ว อาจจะไม่มีปัญหา แต่ถ้าเป็น event ที่ต้องรอ update ก็จะมีปัญหา ซึ่งปกติก็น่าจะต้องใช้ Observer pattern
+ตัว Promise จะต้องรู้สภาพการทำงานของตัวเอง ซึ่งในกรณีที่เรียก request จาก client แล้วรอ response จาก server ทำให้ไม่สามารถที่จะรู้ผลได้ว่าจะเสร็จเมื่อไร ถ้า promise ตั้งแต่แรกอยู่แล้ว อาจจะไม่มีปัญหา แต่ถ้าเป็น event ที่ต้องรอ update ก็จะมีปัญหา
 
-https://en.wikipedia.org/wiki/Observer_pattern
-
+วิธีการแก้ไข น่าจะต้องใช้ await/async
 
 new Promise(resolve,reject){
-  ... wait until event emitted ...
+  let result = await confirmation_function(condition)
   if(condition){
     resolve(data)
   }else{
