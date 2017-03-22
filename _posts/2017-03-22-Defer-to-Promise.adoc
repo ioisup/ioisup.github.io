@@ -8,11 +8,48 @@ ioisup <ioisup@gmail.com>
 
 วิธีการแก้ไข น่าจะต้องใช้ await/async
 
-new Promise(resolve,reject){
-  let result = await confirmation_function(condition)
-  if(condition){
-    resolve(data)
-  }else{
-    reject(err)
+import events = require('events');
+
+class MyEmitter extends events.EventEmitter {}
+
+const myEmitter = new MyEmitter();
+
+let obs=[];
+
+myEmitter.on('event', (id,data) => {
+  console.log('an event '+id+' occurred!');
+  if(obs[id]){
+    obs[id].call(this,data)
+    obs[id]=null
   }
+});
+
+function delay(id: number) {
+    return new Promise<void>(function(resolve,reject) {
+        if (id in obs){ 
+            reject('dup') 
+        }else{
+            obs[id]=resolve
+        }
+    });
 }
+
+async function asyncAwait1() {
+    console.log("Knock, knock!")
+    let res=await delay(1)
+    console.log("async/await1! with res="+res)
+}
+
+async function asyncAwait2() {
+    console.log("Knock, knock!")
+    let res=await delay(2)
+    console.log("async/await2! with res="+res)
+}
+
+asyncAwait1()
+asyncAwait2()
+
+myEmitter.emit('event',2,'test21')
+myEmitter.emit('event',2,'test22')
+myEmitter.emit('event',1,'test1')
+
