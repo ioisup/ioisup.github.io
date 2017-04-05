@@ -1,0 +1,15 @@
+= R 
+ioisup <ioisup@gmail.com>
+:published_at: 2017-04-05
+:hp-tags: R, Rcmdr, Statistic
+
+
+http://students.brown.edu/seeing-theory/
+
+
+https://eric.univ-lyon2.fr/~ricco/tanagra/fichiers/en_Tanagra_R_Fiddle.pdf
+
+
+Multiple Regression 
+
+latexmath:[$Y = f(X)$]
