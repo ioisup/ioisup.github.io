@@ -6,3 +6,6 @@ ioisup <ioisup@gmail.com>
 เขียนโปรแกรมทั้งบน iOS andriod web windows 
 ต้องมี Mac 1 เครื่อง เอาให้ถูกสุดคือ Mac mini ราคา ฿18,900.00 https://www.apple.com/th-en/shop/buy-mac/mac-mini?afid=p238%7CsqVZr6iOh-dc_mtid_18707vxu38484_pcrid_182927298901_&cid=aos-th-kwgo-mac--slid-
 หรือ notebook จาก Mac ถูกสุด Mac Air ราคา ฿37,900.00 https://www.apple.com/th/shop/buy-mac/macbook-air
+
+ถ้าซื้อ notebook ได้ในราคาต่ำกว่า 37,900-18,900=19,000 ก็ซื้อ Mac Mini แล้วซื้อ Notebook เพิ่มจะถูกกว่า โดยสามารถ remote desktop ได้ แต่เปลืองค่าไฟนิดหน่อย
+
