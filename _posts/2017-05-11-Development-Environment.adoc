@@ -1,0 +1,8 @@
+= Development Environment
+ioisup <ioisup@gmail.com>
+:published_at: 2017-05-11
+:hp-tags: development
+
+เขียนโปรแกรมทั้งบน iOS andriod web windows 
+ต้องมี Mac 1 เครื่อง เอาให้ถูกสุดคือ Mac mini ราคา ฿18,900.00 https://www.apple.com/th-en/shop/buy-mac/mac-mini?afid=p238%7CsqVZr6iOh-dc_mtid_18707vxu38484_pcrid_182927298901_&cid=aos-th-kwgo-mac--slid-
+หรือ notebook จาก Mac ถูกสุด Mac Air ราคา ฿37,900.00 https://www.apple.com/th/shop/buy-mac/macbook-air
